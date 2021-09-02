@@ -1,0 +1,282 @@
+# depslib dependency file v1.0
+1619003752 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_menuscreen.cpp
+	"_menuScreen.h"
+
+1618982571 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_menuscreen.h
+	<_scene.h>
+	<_helpScreen.h>
+	<_buttons.h>
+	<_level.h>
+
+1618982225 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_sound.cpp
+	"_sound.h"
+
+1618834944 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_sound.h
+	<stdlib.h>
+	<SOUNDS/irrKlang.h>
+	<iostream>
+	<_timer.h>
+
+1517335446 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_irrklangtypes.h
+	<wchar.h>
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_esoundoutputdrivers.h
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_esoundengineoptions.h
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_estreammodes.h
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1517256032 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517256008 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1517256024 c:\users\proga\documents\191tgamedevprojects\common\include\sounds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1618837368 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_timer.h
+	<time.h>
+	<iostream>
+
+1618905499 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_buttons.cpp
+	"_buttons.h"
+
+1619003706 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_buttons.h
+	<vector>
+	<iostream>
+	<_texture.h>
+	<_sound.h>
+
+1620294631 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_texture.h
+	<SOIL.h>
+	<GL/gl.h>
+	<map>
+	<iostream>
+	<utility>
+	<_common.h>
+
+1613613451 c:\users\proga\documents\191tgamedevprojects\common\include\soil.h
+
+1618975107 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_common.h
+	<utility>
+
+1620303506 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_inputs.cpp
+	"_inputs.h"
+
+1618891229 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_inputs.h
+	<windows.h>
+	<_object.h>
+	<_timer.h>
+	<_buttons.h>
+	<_sound.h>
+
+1620294631 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_object.h
+	<cstdlib>
+	<GL/gl.h>
+	<_texture.h>
+	<_common.h>
+	<math.h>
+
+1618919651 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_scene.cpp
+	"_scene.h"
+
+1619011977 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_scene.h
+	<windows.h>
+	<GL/glut.h>
+	<stack>
+	<iostream>
+	<vector>
+	<_texture.h>
+	<_player.h>
+	<_enemy.h>
+	<_inputs.h>
+	<_sound.h>
+	<_timer.h>
+	<_common.h>
+
+1583499685 c:\users\proga\documents\191tgamedevprojects\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1620294631 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_player.h
+	<_object.h>
+
+1619003766 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_helpscreen.cpp
+	"_helpScreen.h"
+
+1618897943 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_helpscreen.h
+	<_scene.h>
+	<_buttons.h>
+
+1618895638 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_timer.cpp
+	"_timer.h"
+
+1620303420 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_player.cpp
+	"_player.h"
+
+1619046736 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_popup.cpp
+	"_popUp.h"
+
+1618913726 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_popup.h
+	<_buttons.h>
+	<_texture.h>
+
+1618906527 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_texture.cpp
+	"_texture.h"
+
+1618898120 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_common.cpp
+	"_common.h"
+
+1620303420 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_object.cpp
+	"_object.h"
+
+1619003741 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_titlescreen.cpp
+	"_titleScreen.h"
+
+1618898653 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_titlescreen.h
+	<_scene.h>
+	<_buttons.h>
+	<_menuScreen.h>
+
+1619051696 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<stack>
+	<ctime>
+	<_timer.h>
+	<_scene.h>
+	<_blankScreen.h>
+	<_titleScreen.h>
+
+1618904091 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_blankscreen.cpp
+	"_blankScreen.h"
+
+1618904086 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_blankscreen.h
+	<_scene.h>
+
+1620303029 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_level.cpp
+	"_level.h"
+
+1619011667 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_level.h
+	<_scene.h>
+	<_buttons.h>
+	<_helpScreen.h>
+	<_room.h>
+	<_popUp.h>
+
+1620301143 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_room.cpp
+	"_room.h"
+
+1619007786 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_room.h
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<stack>
+	<utility>
+	<_texture.h>
+	<fstream>
+	<istream>
+	<sstream>
+	<_common.h>
+	<_tileObj.h>
+	<vector>
+
+1618991226 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_tileobj.h
+	<_texture.h>
+	<_object.h>
+	<_common.h>
+
+1618979367 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_tileobj.cpp
+	"_tileObj.h"
+
+1619048135 source:c:\users\proga\documents\191tgamedevprojects\towerdiverv2\src\_enemy.cpp
+	"_enemy.h"
+
+1619011943 c:\users\proga\documents\191tgamedevprojects\towerdiverv2\include\_enemy.h
+	<_object.h>
+	<_player.h>
+
